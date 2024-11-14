@@ -5,6 +5,13 @@
 
 
 🌱 I’m currently learning 
+ - Spring
+   - Spring Boot
+   - Spring WebFlux
+   - Security
+ - DB
+   - Mysql
+   - Jpa Hibernate 
  - Kotlin
  - Java
  - React.js
