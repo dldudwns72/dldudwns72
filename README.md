@@ -6,13 +6,15 @@
 
 🌱 I’m currently learning 
  - Spring
-   - Spring Boot
-   - Spring WebFlux
+   - Boot
+   - WebFlux
    - Security
+   - Batch
  - DB
-   - Mysql
+   - Mysql, MariaDB, Aurora DB
    - Jpa Hibernate 
  - Kotlin
+   - Coroutine 
  - Java
  - React.js
 
