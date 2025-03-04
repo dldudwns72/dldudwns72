@@ -17,6 +17,11 @@
    - Coroutine 
  - Java
  - React.js
+ - Infra
+   - AWS
+ - CI/CD
+   - GitHub, GitLab
+   - Docker, K8s
 
 <!--
 **dldudwns72/dldudwns72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
