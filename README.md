@@ -12,7 +12,8 @@
    - Batch
  - DB
    - Mysql, MariaDB, Aurora DB
-   - Jpa Hibernate 
+   - Jpa Hibernate
+   - R2DBC
  - Kotlin
    - Coroutine 
  - Java
