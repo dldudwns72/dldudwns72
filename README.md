@@ -3,7 +3,6 @@
 🔭 I’m currently working on ...
  - KidariStudio 
 
-
 🌱 I’m currently learning 
  - Spring
    - Boot
@@ -20,9 +19,13 @@
  - React.js
  - Infra
    - AWS
+     - EKS
+     - RDS 
  - CI/CD
    - GitHub, GitLab
    - Docker, K8s
+ - Monitoring
+   - DataDog  
 
 <!--
 **dldudwns72/dldudwns72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
