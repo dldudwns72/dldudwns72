@@ -20,11 +20,12 @@
  - Infra
    - AWS
      - EKS
-     - RDS 
+     - RDS
  - CI/CD
    - GitHub, GitLab
    - Docker, K8s
  - Monitoring
+   - Cloud Watch 
    - DataDog  
 
 <!--
