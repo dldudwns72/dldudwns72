@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
- - KidariStudio 
+ - KidariStudio / BE Developer
 
 🌱 I’m currently learning 
  - Spring
@@ -13,6 +13,7 @@
    - Mysql, MariaDB, Aurora DB
    - Jpa Hibernate
    - R2DBC
+ - Redis
  - Kotlin
    - Coroutine 
  - Java
@@ -26,7 +27,8 @@
    - Docker, K8s
  - Monitoring
    - Cloud Watch 
-   - DataDog  
+   - DataDog
+ 
 
 <!--
 **dldudwns72/dldudwns72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
